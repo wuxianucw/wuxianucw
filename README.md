@@ -5,3 +5,7 @@
 深刻地知道自己是个 five，但是因为太 five 了懒得改变。非常闲的时候会学新东西。
 
 有三分钟热度的特性，所以会有一堆写了个开头懒得写的 repo。
+
+![wuxianucw's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuxianucw)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuxianucw)
